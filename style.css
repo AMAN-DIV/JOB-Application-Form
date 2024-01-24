@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: blueviolet;
+    padding: 75px;
+}
+
+.container{
+    background-color: white;
+    border-radius: 6px;
+    /* padding: 55px; */
+    width: 650px;
+    height: 750px;
+
+}
+.name{
+    display: inline-flex;
+}
+.container  h3{
+    padding-right: 220px;
+}
+#fname #lname{
+    padding-top: 120px;
+}
+.name{
+    padding-top: 25px;
+
+    line-height: 25px;
+}
